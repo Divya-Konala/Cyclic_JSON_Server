@@ -1,0 +1,44 @@
+{
+    "superHeros": [
+        {
+            "id": 1,
+            "rating": 10,
+            "user_name": "Tony Stark",
+            "text": "You are the ironman of this world"
+        },
+        {
+            "id": 2,
+            "rating": 9,
+            "user_name": "Bruce Wayne",
+            "text": "You are the batman of this world"
+        },
+        {
+            "id": 3,
+            "rating": 8,
+            "user_name": "Peter Parker",
+            "text": "You are the spiderman of this world"
+        }
+    ],
+    "books": [
+        {
+            "bookimageurl": "https://m.media-amazon.com/images/I/710ESoXqVPL.jpg",
+            "bookname": "Harrypotter",
+            "authorname": "JK.Rowling",
+            "genre": "fiction",
+            "edition": "2020",
+            "publisher": "Amazon",
+            "cost": "1500",
+            "id": 1
+          },
+          {
+            "bookimageurl": "https://m.media-amazon.com/images/I/710ESoXqVPL.jpg",
+            "bookname": "Harrypotter",
+            "authorname": "JK.Rowling",
+            "genre": "fiction",
+            "edition": "2021",
+            "publisher": "Flipkart",
+            "cost": "1600",
+            "id": 2
+          }
+    ]
+}
